@@ -1,5 +1,3 @@
-
-
 let signupForm=document.querySelector("#signup-form");
 let signupName=document.querySelector("#signup-name");
 let signupEmail=document.querySelector("#signup-email");
