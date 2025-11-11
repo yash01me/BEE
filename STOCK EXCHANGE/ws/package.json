@@ -1,7 +1,7 @@
 {
-  "name": "stockexchange",
+  "name": "ws",
   "version": "1.0.0",
-  "main": "order.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "ws": "^8.18.3"
   }
 }
